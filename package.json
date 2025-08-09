@@ -1,4 +1,6 @@
-[ViewState]
-Mode=
-Vid=
-FolderType=Generic
+{
+  "name": "vercel-7tv",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module"
+}
