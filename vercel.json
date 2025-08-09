@@ -1,6 +1,6 @@
 {
   "functions": {
-    "api/7tv.js": {
+    "api/*.js": {
       "runtime": "nodejs20.x",
       "maxDuration": 10
     }
